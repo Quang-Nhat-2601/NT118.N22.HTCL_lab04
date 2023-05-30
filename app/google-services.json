@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14574015319",
+    "project_id": "lab4-signinform",
+    "storage_bucket": "lab4-signinform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14574015319:android:6612a2b6b2e07c149a6412",
+        "android_client_info": {
+          "package_name": "com.example.lab4_signinform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WxOEYHyQ006ARdThvpI9JPeDo6bV75I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
